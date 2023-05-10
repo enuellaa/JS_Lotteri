@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+    margin:  0 15%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.div_1, .div_2, .div_3, .div_4, .div_5, .div_6, .div_7, .div_8, .div_9 {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    width: 220px;
+    height: 185px;
+    /* border: 5px solid black; */
+}
+
+img {
+    width: 220px;
+    height: 185px;
+}
+
+.btndiv {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.resetbtn {
+    background-color: blueviolet;
+    width: 1000px;
+    height: 50px;
+    color: white;
+    font-size: larger;
+}
